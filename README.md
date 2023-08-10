@@ -1,8 +1,6 @@
 
 ### Olá, Eu sou o Carlos Eduardo Oliveira Alves 👋
 
-[![ProjCarolCakes](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://carolcakesvix.netlify.app/)
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-oliveira-alves-18aa49248/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cazeduardo_k/)
