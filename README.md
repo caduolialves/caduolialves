@@ -3,8 +3,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-oliveira-alves-18aa49248/)
 
-![Cadu GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoOliveiraAlves&show_icons=true&theme=radical)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style = "display: inline-block"><br/>
